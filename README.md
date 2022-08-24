@@ -5,19 +5,19 @@ Este repositório possui a implementação de exemplos de Padrões de Projeto ut
 Cada padrão de projeto é implementado em um pacote (pasta) separado.
 
 
-## Padrão de Projeto Abstract Facotry
+## Abstract Facotry
 
 Encontra-se no pacote `guiFactory`.
 
-- Obs.: código criado a partir do [projeto AbstractFactory](https://github.com/ufla-ppoo/GCC178-Projetos-das-Aulas/blob/master/PadraoSingleton) desenvolvido pelo Prof. Paulo Afonso (DCC - ICET - UFLA).
+- Obs.: código criado a partir do [projeto AbstractFactory](https://github.com/ufla-ppoo/GCC178-Projetos-das-Aulas/blob/master/Abstractfactory) desenvolvido pelo Prof. Paulo Afonso (DCC - ICET - UFLA).
 
-## Padrão de Projeto Singleton
+## Observer
 
 Encontra-se no pacote `temCafe`.
 
-- Obs.: código do [projeto ProjetoTemCafeObserver](https://github.com/ufla-ppoo/GCC178-Projetos-das-Aulas/blob/master/PadraoSingleton) desenvolvido pelo Prof. Paulo Afonso (DCC - ICET - UFLA).
+- Obs.: código do [projeto ProjetoTemCafeObserver](https://github.com/ufla-ppoo/GCC178-Projetos-das-Aulas/blob/master/ProjetoTemCafeObserver) desenvolvido pelo Prof. Paulo Afonso (DCC - ICET - UFLA).
 
-## Padrão de Projeto Singleton
+## Singleton
 
 Encontra-se no pacote `singleton`.
 
